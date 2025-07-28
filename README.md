@@ -11,7 +11,7 @@ Calculadora de parcelas para financiamentos com base no valor, entrada e prazo.
 - React Native
 - React
 - Expo
--JavaScript
+- JavaScript
 
 ## ▶️ Como Executar
 ```bash
